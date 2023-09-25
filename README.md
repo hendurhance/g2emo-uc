@@ -5,6 +5,9 @@ This is a simple project to demonstrate how to use pure HTML and CSS to create a
 
 ## 📺 Demo
 
+https://github.com/hendurhance/g2emo-uc/assets/50846992/b68c8ac6-f834-4faf-b156-abaf376f473d
+
+
 
 ## 📦 Installation
 - Clone this repository:
